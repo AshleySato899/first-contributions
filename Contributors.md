@@ -39,7 +39,7 @@ itay-guter
 -Mishank Kumar
 -Talib Hussain
 -[Rajat Kumar](https://github.com/rajat844)
--[Elijah Galahad](https://guthub.com/EGalahad)
+-[Elijah Galahad](https://github.com/EGalahad)
 -[Shaocong Shi](https://github.com/scsbkhunt)
 -[Dylan Alfonso](https://github.com/DylanAlfonso13)
 -[MaruthiKo](https://github.com/MaruthiKo)
