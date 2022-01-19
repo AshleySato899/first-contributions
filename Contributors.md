@@ -39,7 +39,6 @@ itay-guter
 -Mishank Kumar
 -Talib Hussain
 -[Rajat Kumar](https://github.com/rajat844)
--[Elijah Galahad](https://github.com/EGalahad)
 -[Shaocong Shi](https://github.com/scsbkhunt)
 -[Dylan Alfonso](https://github.com/DylanAlfonso13)
 -[MaruthiKo](https://github.com/MaruthiKo)
@@ -47,6 +46,7 @@ itay-guter
 -[Aniruddh Pramod](https://github.com/aniruddh-pramod)
 -[Trenton Stetson](https://github.com/stetson912)
 -[Mayur Vaidya](https://github.com/mnvaidya)
+-[Elijah Galahad](https://github.com/EGalahad)
 -[Joshua McElroy](https://github.com/tkdevil)
 -[Hugo Bouderlique](https://github.com/HugoBde)
 -[Faheem](https://github.com/codeFaheem)
